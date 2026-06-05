@@ -7,6 +7,7 @@ as a B.Tech 1st Year project at Jaypee Institute of Technology.
 - Kishita Gupta
 - Shreya Agarwal
 - Idika Kumar
+  
  -Diya Pant
 
 ## ✨ Features
