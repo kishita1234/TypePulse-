@@ -7,8 +7,8 @@ as a B.Tech 1st Year project at Jaypee Institute of Technology.
 - Kishita Gupta
 - Shreya Agarwal
 - Idika Kumar
+- Diya Pant
   
- -Diya Pant
 
 ## ✨ Features
 - ⌨️ Typing speed test with WPM & accuracy calculation
