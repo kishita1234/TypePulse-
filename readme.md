@@ -7,7 +7,7 @@ as a B.Tech 1st Year project at Jaypee Institute of Technology.
 - Kishita Gupta
 - Shreya Agarwal
 - Idika Kumar
--Diya Pant
+ -Diya Pant
 
 ## ✨ Features
 - ⌨️ Typing speed test with WPM & accuracy calculation
@@ -45,5 +45,5 @@ g++ typewriter.cpp -o typepulse
 5. View top 10 players anytime
 
 ---
-Made by Kishita Gupta, Shreya Agarwal & Idika Kumat
+Made by Kishita Gupta, Shreya Agarwal,Idika Kumar & Diya Pant
 B.Tech CSE Year 1 | Jaypee Institute of Technology
